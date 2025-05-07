@@ -1,0 +1,56 @@
+[
+  {
+    "series": "1",
+    "card": "1",
+    "asset": "A943964058833894091",
+    "issuance": 21,
+    "artist": "Tony NL",
+    "link": "https://horizon.market/explorer/assets/A943964058833894091",
+    "image": "https://stampchain.io/stamps/c501aebbac6d80b2c90c20825acdbb78c982e83c8f799cfcc5a4fd6ee03f374c.png"
+  },
+  {
+    "series": "1",
+    "card": "2",
+    "asset": "A640327774300092058",
+    "issuance": 21,
+    "artist": "Tony NL",
+    "link": "https://horizon.market/explorer/assets/A640327774300092058",
+    "image": "https://stampchain.io/stamps/927419b652b9d7c4a5d554c8b17c8d53a59907b546ecfbcc93ee2fe49e2a1b1d.svg"
+  },
+  {
+    "series": "1",
+    "card": "3",
+    "asset": "A1277614535394751854",
+    "issuance": 21,
+    "artist": "Tony NL",
+    "link": "https://horizon.market/explorer/assets/A1277614535394751854",
+    "image": "https://stampchain.io/stamps/c0b431fd1a9a922db4802ed75dcb6bef86c99a10156da1269a2032cc4b85fb3d.svg"
+  },
+  {
+    "series": "1",
+    "card": "4",
+    "asset": "A1253203040350607032",
+    "issuance": 21,
+    "artist": "Tony NL",
+    "link": "https://horizon.market/explorer/assets/A1253203040350607032",
+    "image": "https://stampchain.io/stamps/62234942955bd70125f0fd9e8f6e956e89673571eec0ceb4ede98067e685d9ff.svg"
+  },
+  {
+    "series": "1",
+    "card": "5",
+    "asset": "A1423962534089574337",
+    "issuance": 21,
+    "artist": "Tony NL",
+    "link": "https://horizon.market/explorer/assets/A1423962534089574337",
+    "image": "https://stampchain.io/stamps/be6a700fe509f33b0c5b0fe258637e67acad595709f1d0648a51a8e2e610a62d.svg"
+  },
+  {
+    "series": "1",
+    "card": "6",
+    "asset": "A15732219590540947000",
+    "issuance": 21,
+    "artist": "Tony NL",
+    "link": "https://horizon.market/explorer/assets/A3465369411251535000",
+    "image": "https://stampchain.io/stamps/f978b1aca21ca2346163157b0fbcb24c6dd4050907622fadf51386dca6f7207c.png"
+  }
+]
