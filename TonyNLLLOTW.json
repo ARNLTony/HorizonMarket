@@ -70,5 +70,23 @@
     "artist": "Tony NL",
     "link": "https://horizon.market/explorer/assets/A5176113323679072000",
     "image": "https://stampchain.io/stamps/4fede0780453f103e081e91c09afa62b25930efa1e7ae5dd4a35bbd82633379f.png"
+  },
+  {
+    "series": "1",
+    "card": "9",
+    "asset": "A12756535643855143000",
+    "issuance": 21,
+    "artist": "Tony NL",
+    "link": "https://horizon.market/explorer/assets/A12756535643855143000",
+    "image": "https://stampchain.io/stamps/ffd27348980bbfb2cc99195ea36f324c937f223f57cf8b0abbf465e4dab010bd.png"
+  },
+  {
+    "series": "1",
+    "card": "10",
+    "asset": "A5137942437934396000",
+    "issuance": 21,
+    "artist": "Tony NL",
+    "link": "https://horizon.market/explorer/assets/A5137942437934396000",
+    "image": "https://stampchain.io/stamps/f951a9e68e1e97202972bd98a72c204f1b19576ad4e05c8cc13187b8dca388df.png"
   }
 ]
